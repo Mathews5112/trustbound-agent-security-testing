@@ -1,0 +1,13 @@
+
+[
+  {
+    "hostname": "LAB-PC-01",
+    "ip": "192.0.2.101",
+    "status": "active"
+  },
+  {
+    "hostname": "LAB-SERVER-01",
+    "ip": "192.0.2.102",
+    "status": "active"
+  }
+]

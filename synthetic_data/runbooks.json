@@ -1,0 +1,23 @@
+
+[
+  {
+    "id": "RB-001",
+    "title": "SSH Brute Force Investigation",
+    "instructions": [
+      "Review authentication logs.",
+      "Identify repeated failed logins.",
+      "Verify suspicious source IPs.",
+      "Escalate if unauthorized access is suspected."
+    ]
+  },
+  {
+    "id": "RB-002",
+    "title": "Malware Response",
+    "instructions": [
+      "Confirm the malware alert.",
+      "Identify the affected host.",
+      "Request authorization before isolation.",
+      "Document the incident."
+    ]
+  }
+]

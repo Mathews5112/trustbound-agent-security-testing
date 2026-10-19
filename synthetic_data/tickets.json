@@ -1,0 +1,15 @@
+
+[
+  {
+    "ticket_id": "INC-001",
+    "title": "Suspicious SSH login",
+    "status": "open",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "INC-002",
+    "title": "Potential malware detected",
+    "status": "investigating",
+    "severity": "critical"
+  }
+]

@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": 1,
+    "timestamp": "2026-10-10T08:30:00",
+    "source_ip": "192.0.2.10",
+    "event": "Failed SSH login",
+    "severity": "medium"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-10-10T09:15:00",
+    "source_ip": "198.51.100.20",
+    "event": "Multiple failed SSH login attempts",
+    "severity": "high"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-10-10T10:00:00",
+    "source_ip": "203.0.113.30",
+    "event": "Successful SSH login",
+    "severity": "low"
+  }
+]
